@@ -4,15 +4,15 @@
 
 # mira esa wea hermano
 mswh = colorRampPalette(c(
-    #5A9DC8, #007CB8, #015593, #013281, #722142, 
-    #C8A115, #B27362, #66342D, #21201C
+    "#5A9DC8", "#007CB8", "#015593", "#013281", "#722142", 
+    "#C8A115", "#B27362", "#66342D", "#21201C"
 ), space="Lab")
 
 # me pase poh (2016)
 mpp = colorRampPalette(c(
-    #FCFCFE, #CAC3CB, #4C4B5B, #0F0810,
-    #D49286, #EDADA1, #E6D9C6, #F97C5C,
-    #CD2B36
+    "#FCFCFE", "#CAC3CB", "#4C4B5B", "#0F0810",
+    "#D49286", "#EDADA1", "#E6D9C6", "#F97C5C",
+    "#CD2B36"
 ), space = "Lab")
 
 # otros ####
@@ -68,3 +68,5 @@ pal.turbo <- colorRampPalette(c(
     "#B5F836FF", "#D6E635FF", "#EFCD3AFF", "#FCB036FF", "#FD8A26FF",
     "#F36215FF", "#E14209FF", "#C82803FF", "#A51301FF", "#7A0403FF"
 ), space = "Lab")
+
+
